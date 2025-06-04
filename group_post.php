@@ -56,7 +56,9 @@
         <option value="1">모집 중</option>
         <option value="0">모집 마감</option>
         </select><br/>
-        <input type="submit" name="소모임 만들기"/>
+        <input type="submit" value="소모임 만들기"/>
+
+        
     </form>
 
 </body>
