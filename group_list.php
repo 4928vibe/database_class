@@ -5,6 +5,7 @@
 <body>
     <form method="POST" action="group_post.php"> <input type="submit" value="소모임 만들기"/> </form>
     <?php
+        include 'header.php';
 
         include("db.php");
 
